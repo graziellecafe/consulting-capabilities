@@ -72,3 +72,7 @@ Ao invés de criticar, faça perguntas.
 - Procure entender como as outras pessoas enxergam o seu trabalho. Além de **ser**, também é preciso **parecer**. 
 - Lembre-se que você é a face da tw para o cliente. 
 
+### Livros 
+- How to win friends and influence people
+- Crucial Conversations
+- Influence: The Psychology of Persuasion
