@@ -8,7 +8,7 @@
 
 <h4>Porque consultoria? </h4>
 - Como consultoras, trabalhamos junto a clientes para atingir objetivos relacionados a tecnologia 
- - De nada adianta termos um excelente conhecimento técnico se nossas clientes não puderem se beneficiar dele através da **comunição, influência e comportamento**
+ - De nada adianta termos um excelente conhecimento técnico se nossas clientes não puderem se beneficiar dele através da comunicação, influência e comportamento.
 
  <h4>Consultoria</h4>
  Comunicação, Excelência, Coaching, Facilitação, Influência, Conexão, Empatia, Domínio de Negócio, Mentoria
@@ -76,3 +76,38 @@ Ao invés de criticar, faça perguntas.
 - How to win friends and influence people
 - Crucial Conversations
 - Influence: The Psychology of Persuasion
+
+
+## :ear: Dia 2: Escuta ativa 
+### Active Listening: You can be a great listener
+- When you listen well, you get much better in speaking powerfully
+- Escuta ativa é um investimento no relacionamento, sendo um colega, um chefe, um amigo 
+
+**O que é escuta ativa?**
+Em primeiro lugar, é a **atenção totalmente focada**. Você e sua atenção estão focados na outra pessoa. A multitarefa é desaprovada. 
+
+Em segundo lugar, você está **ouvindo tão atentamente** que poderia resumir de volta para eles o conteúdo do que disseram e o estado de espírito emocional em que estão. 
+
+Terceiro, você **simpatiza** com eles e valida sua experiência facilmente. 
+
+Ouvir ativamente é não permitir que alguém fale até que se esgote o que dizer. É direcionado, focado e com limite de tempo. Você não é um ouvinte passivo, mas um parceiro de conversa engajado quando está ouvindo. 
+
+
+### Lista sobre atributos de bons ouvintes 
+- Eles estão focados na pessoa que está falando 
+- Sem distração
+- Eles tem a mente aberta e não julgam 
+- Eles são curiosos, eles fazem perguntas 
+- Eles incluem sentimentos e não verbais na conversa 
+- Eles aceitam perspectivas diferentes, o que significa que podem gerenciar suas próprias opiniões 
+
+"Minha presença é um presente."
+
+A única maneira que outras pessoas podem realmente saber se você está ouvindo é respondendo o que ouviu. 
+
+Existem dois elementos para prestar atenção no nível dois, ouvir: 
+- A primeira parte é que as palavras da outra pessoa significam, o conteúdo do que ela está dizendo. Você está ouvindo tão bem que seria capaz de resumir para eles. 
+- A segunda parte do nível dois de escuta é perceber o humor ou a energia da pessoa que está falando. Normalmente temos sentimentos sobre o que estamos dizendo. 
+
+**Big Five**: 
+Mad, Bad, Sad, Glad and Anxious. 
