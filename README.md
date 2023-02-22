@@ -111,3 +111,24 @@ Existem dois elementos para prestar atenção no nível dois, ouvir:
 
 **Big Five**: 
 Mad, Bad, Sad, Glad and Anxious. 
+
+**Empatia**:
+Empatia é a capacidade de reconhecer as emoções de outra pessoa e compartilhá-las. 
+
+Goal
+Reality 
+Options
+Way Forwad
+
+
+## :computer: Dia 3: Working Remote
+### Best Practices for Working Remotely 
+-  Esteja acessível através de várias formas de comunicação
+- Faça check-in com mais frequência do que faria normalmente com seu gerente, mas também com seus colegas de equipe
+- Compartilhe qualquer tipo de necessidade de agendamento que você possa ter ou qualquer tempo offline com as pessoas com quem você está trabalhando para que elas saibam quando você estará disponível e quando estará offline 
+- Conecte com outras pessoas, diga bom dia
+- Fazer happy hour virtual 
+- Seja responsável  
+- Apareça com a câmera ligada
+- Planejar e estruturar nosso dia de trabalho 
+- Fazer pausas ajuda sua produtividade
